@@ -49,14 +49,17 @@
             "id": "8636bcd2d5655676",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Computer Science/Database/Postgres/Postgres Docker.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -42.5,
+                  "y": -130,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Postgres Docker"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           },
           {
@@ -236,10 +239,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8636bcd2d5655676",
+  "active": "2ad88110b3988258",
   "lastOpenFiles": [
-    "Computer Science/Database/Postgres/Postgres.md",
     "Computer Science/Database/Postgres/Postgres Docker.md",
+    "Computer Science/Database/Postgres/Postgres.md",
     "Untitled",
     "Computer Science/Database/Postgres/Postgres Tips.md",
     "Computer Science/Database/Database.md",
