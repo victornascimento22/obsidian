@@ -1,0 +1,1 @@
+Gateway is a receveing agent, acting as a layuer above some others server(s) and , if necessary translating the requests to the underlying servers protocol.
