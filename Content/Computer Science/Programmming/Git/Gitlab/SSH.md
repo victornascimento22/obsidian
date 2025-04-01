@@ -2,7 +2,7 @@
 
 ls ~/.ssh
 
-ssh-keygen -t rsa -b 4096 -C "equipesi@capitaltrade.srv.br"
+ssh-keygen -t rsa -b 4096 -C "email"
 
 - Iniciar o agente SSH
 eval $(ssh-agent -s)

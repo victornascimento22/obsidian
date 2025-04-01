@@ -15,8 +15,7 @@ instalar nginx
 
 sudo apt install nginx -t
 
-sudo certbot certonly --manual --preferred-challenges=dns -d n8n.capitalsistemas.srv.br
-
+sudo certbot certonly --manual --preferred-challenges=dns -d domain
 criar txt com o valor que o certbot gerar no rpovedor de dns 
 
 
