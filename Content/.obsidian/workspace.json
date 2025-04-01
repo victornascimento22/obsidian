@@ -1,0 +1,281 @@
+{
+  "main": {
+    "id": "9489daf499fbf5a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "83256a26fd17aedb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "925426ab113f89a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Database/Postgres/Load Balancer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Load Balancer"
+            }
+          },
+          {
+            "id": "b15b88644824789a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "c33cb8c809877c66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Database/Postgres/Postgres.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Postgres"
+            }
+          },
+          {
+            "id": "8636bcd2d5655676",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -42.5,
+                  "y": -130,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "d376aaea63ee4218",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "66abca069e8b7510",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c85186320b86361",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0026c4858c2ca1c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cabb452a664ea13c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0a2b39531815d825",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "31aadd60e6032b54",
+    "type": "split",
+    "children": [
+      {
+        "id": "6708e5f4dd2a3455",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f74e21eb65e26a65",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Postgres.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Postgres"
+            }
+          },
+          {
+            "id": "84003c287b644cd5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Postgres.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Postgres"
+            }
+          },
+          {
+            "id": "965afa4698a06da7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "809c445c46f1b37d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Postgres.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Postgres"
+            }
+          },
+          {
+            "id": "f0ac44340b3fa4b2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "2ad88110b3988258",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "2ad88110b3988258",
+  "lastOpenFiles": [
+    "Computer Science/Database/Postgres/Postgres Docker.md",
+    "Computer Science/Database/Postgres/Postgres.md",
+    "Untitled",
+    "Computer Science/Database/Postgres/Postgres Tips.md",
+    "Computer Science/Database/Database.md",
+    "Computer Science/Database/Postgres/Load Balancer.md",
+    "Stacks.md",
+    "Untitled.canvas",
+    "Starlov.md",
+    "Core.md",
+    "Computer Science/Redes - Networking/Protocols/TCP/TCP.md",
+    "Programming.md",
+    "Computer Science/Redes - Networking/Network.md",
+    "Computer Science/Redes - Networking/Protocols/Protocols.md",
+    "tips obsidian.md",
+    "Computer Science/Redes - Networking/Protocols/HTTP/URI.md",
+    "Computer Science/Redes - Networking/Protocols/IP/IP.md",
+    "Computer Science/Redes - Networking/Protocols/HTTP/Proxy.md",
+    "Computer Science/Redes - Networking/Protocols/HTTP/Tunnel.md",
+    "Computer Science/Redes - Networking/Model OSI/OSI.md",
+    "Computer Science/Redes - Networking/Diferences of TCP and HTTP.md",
+    "Computer Science/Redes - Networking/Protocols/IP",
+    "Computer Science/Redes - Networking/Protocols/HTTP/HTTP.md",
+    "Ciencia da Computacao.md",
+    "tips obsidian",
+    "[HTTP.md",
+    "Computer Science/Redes - Networking/Model OSI",
+    "Networks.md",
+    "Computer Science/Redes - Networking/Protocols/HTTP/Gateway.md",
+    "Untitled 1.canvas",
+    "Computer Science/Database/Postgres",
+    "Computer Science/Database",
+    "Computer Science/Redes - Networking/Protocols/TCP",
+    "Computer Science/Redes - Networking/Protocols",
+    "Computer Science/Redes - Networking",
+    "Computer Science/Web"
+  ]
+}
